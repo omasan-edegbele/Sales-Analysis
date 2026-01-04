@@ -32,6 +32,6 @@ The dataset covers **October, November, and December 2020**, aligning with the h
 ---
 
 ## Key Takeaways
-- **December** is the strongest sales month, driven by holiday-related purchasing behavior.
-- **Men’s apparel** is the largest revenue contributor across customer segments.
-- **Seniors** consistently generate the lowest sales, highlighting potential opportunities for targeted sales programs.
+- [December](screenshots/Sales_By_Month.png) is the strongest sales month, driven by holiday-related purchasing behavior.
+- [Men's apparel](screenshots/Sales_By_Demographic.png) is the largest revenue contributor across customer segments. Meanwhile, **Seniors** consistently generate the lowest sales, highlighting potential opportunities for targeted sales programs.
+
