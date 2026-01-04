@@ -17,7 +17,7 @@ This analysis is presented as a personal portfolio project demonstrating end-to-
 ---
 
 ## Dataset
-- **Source:** CSV file (`AusApparalSales4thQrt2020.csv`)
+- **Source:** CSV file (`data/AusApparalSales4thQrt2020.csv`)
 - **Period:** Q4 2020
 - **Scope:** State-wise, demographic-wise, and time-based sales data
 
