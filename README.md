@@ -16,6 +16,12 @@ This analysis is presented as a personal portfolio project demonstrating end-to-
 
 ---
 
+## Key Takeaways
+ [Sales Analysis Summary](reports/Summary.md)
+
+---
+
+
 ## Dataset
 - **Source:** CSV file (`data/AusApparalSales4thQrt2020.csv`)
 - **Period:** Q4 2020
@@ -35,13 +41,6 @@ This analysis is presented as a personal portfolio project demonstrating end-to-
 - Python (pandas, numpy, scipy)
 - seaborn, matplotlib
 - JupyterLab
-
----
-
-## Key Takeaways
-- Identified top-performing and underperforming states
-- Revealed demographic-based sales patterns
-- Highlighted time periods with the highest sales activity
 
 ---
 
