@@ -32,7 +32,7 @@ The dataset covers **October, November, and December 2020**, aligning with the h
 ---
 
 ## Key Takeaways
-- [December](../Sales_By_Month.png) is the strongest sales month, driven by holiday-related purchasing behavior.
-- [Men's apparel](Sales_By_Demographic.png) is the largest revenue contributor across customer segments. Meanwhile, **Seniors** consistently generate the lowest sales, highlighting potential opportunities for targeted sales programs.
-- [Victoria](Sales_By_State.png) is the state with the most sales highlighting its dense population followed by New South Wales. 
+- [December](../reports/Sales_By_Month.png) is the strongest sales month, driven by holiday-related purchasing behavior.
+- [Men's apparel](../reports/Sales_By_Demographic.png) is the largest revenue contributor across customer segments. Meanwhile, **Seniors** consistently generate the lowest sales, highlighting potential opportunities for targeted sales programs.
+- [Victoria](../reports/Sales_By_State.png) is the state with the most sales highlighting its dense population followed by New South Wales. 
 
